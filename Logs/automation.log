@@ -142,3 +142,11 @@
 12:21:46.523 [main] INFO  api.test.UserTest - ****************** User updated *********************
 12:21:48.119 [main] INFO  api.test.UserTest - ******************Deleting User *********************
 12:21:49.717 [main] INFO  api.test.UserTest - ****************** User Deleted*********************
+12:37:44.415 [main] INFO  api.test.UserTest - ****************** Creating User *********************
+12:37:48.899 [main] INFO  api.test.UserTest - ****************** User Created *********************
+12:37:48.916 [main] INFO  api.test.UserTest - ****************** Reading  User Info *********************
+12:37:50.579 [main] INFO  api.test.UserTest - ****************** User Info Displayed*********************
+12:37:50.584 [main] INFO  api.test.UserTest - ****************** Updating User *********************
+12:37:52.102 [main] INFO  api.test.UserTest - ****************** User updated *********************
+12:37:53.782 [main] INFO  api.test.UserTest - ******************Deleting User *********************
+12:37:55.323 [main] INFO  api.test.UserTest - ****************** User Deleted*********************
